@@ -1,0 +1,22 @@
+1
+00:00:01,000 --> 00:00:03,000
+Welcome to the subtitle test file.
+
+2
+00:00:04,000 --> 00:00:07,000
+This is a valid SRT file with
+proper BBC compliance standards.
+
+3
+00:00:08,000 --> 00:00:11,000
+Each line is under 37 characters
+and properly formatted.
+
+4
+00:00:12,000 --> 00:00:14,000
+Perfect for testing translation!
+
+5
+00:00:15,000 --> 00:00:18,000
+The reading speed is comfortable
+for viewers to follow along.

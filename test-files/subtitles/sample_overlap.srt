@@ -1,0 +1,21 @@
+1
+00:00:01,000 --> 00:00:05,000
+This subtitle has a long duration.
+
+2
+00:00:04,500 --> 00:00:07,000
+This one overlaps with the previous!
+
+3
+00:00:07,500 --> 00:00:10,000
+Back to normal timing here.
+
+4
+00:00:09,000 --> 00:00:12,000
+Another overlap for testing.
+
+5
+00:00:13,000 --> 00:00:16,000
+This one is properly spaced.
+No overlap issues here.
+

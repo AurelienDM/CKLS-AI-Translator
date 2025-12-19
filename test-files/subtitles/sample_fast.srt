@@ -1,0 +1,21 @@
+1
+00:00:01,000 --> 00:00:02,000
+This is way too much text for just one second and will trigger a reading speed warning!
+
+2
+00:00:03,000 --> 00:00:04,500
+Another subtitle with excessive text that appears too quickly for comfortable reading!
+
+3
+00:00:05,000 --> 00:00:06,000
+Speed reading test: lots of words!
+
+4
+00:00:07,000 --> 00:00:10,000
+This one is fine - reasonable text
+for a comfortable reading speed.
+
+5
+00:00:11,000 --> 00:00:12,200
+But this one is too fast again with way too many characters for the duration!
+

@@ -1,0 +1,12 @@
+/* Content script global styles */
+/* Most styles are in Shadow DOM, but adding global reset for the container */
+
+#ai-translate-floating-assistant {
+  all: initial;
+  position: fixed !important;
+  bottom: 24px !important;
+  right: 24px !important;
+  z-index: 999999 !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica', 'Arial', sans-serif !important;
+}
+

@@ -1,0 +1,30 @@
+WEBVTT
+
+NOTE This is a sample WebVTT file with various features
+
+STYLE
+::cue {
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+}
+
+00:00:01.000 --> 00:00:03.500
+Welcome to WebVTT testing!
+
+00:00:04.000 --> 00:00:07.000
+<v John>This is a voice tag example.
+John is speaking here.
+
+00:00:08.000 --> 00:00:11.000 align:start position:10%
+This cue has positioning settings
+that should be preserved.
+
+00:00:12.000 --> 00:00:14.500
+<v Mary>And here's Mary speaking.
+
+NOTE Voice tags help identify speakers
+
+00:00:15.000 --> 00:00:18.000
+Regular subtitle without voice tag.
+Back to normal formatting.
+
